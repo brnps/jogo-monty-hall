@@ -16,6 +16,10 @@ O Enigma consiste em: São mostradas três portas fechadas ao participante. Atr�
 <b>Portas Fechadas</b>
 
 ![portasFechadas](https://user-images.githubusercontent.com/42545422/148615271-cbab078e-3228-4499-85a2-97426820ae42.JPG)
+  
+<b>Porta Selecionada</b>
+  
+![portaSelecionada](https://user-images.githubusercontent.com/42545422/148618592-09a930f9-43cd-4659-b783-1ae07c48422f.JPG)
 
 <b>Portas Abertas</b>
 
