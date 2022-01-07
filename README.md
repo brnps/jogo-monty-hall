@@ -1,34 +1,26 @@
+## Enigma de Monty Hall (Programa de TV Let’s Make a Deal)
+
+<p><b>Enigma de Monty Hall feito em React / Next.JS e TypeScript.</b>
+
+
+O Enigma consiste em: São mostradas três portas fechadas ao participante. Atrás de uma delas há o prêmio, e as outras duas estão vazias
+
+<p>1 - Primeiro o participante escolhe uma porta. Digamos, a porta nº 2.
+<p>2 - Em seguida, Monty Hall abre uma porta vazia, por exemplo a porta nº 3.
+<p>3 - Por fim, o apresentador perguntava se o participante queria continuar com a porta nº 2 ou mudar para a nº 1.
+
+<b>Tela Inicial</b>
+
+![formularioPortas](https://user-images.githubusercontent.com/42545422/148615249-36fce5a6-6f64-4535-9c5e-f77bd3bbd9ee.JPG)
+
+<b>Portas Fechadas</b>
+
+![portasFechadas](https://user-images.githubusercontent.com/42545422/148615271-cbab078e-3228-4499-85a2-97426820ae42.JPG)
+
+<b>Portas Abertas</b>
+
+![portasAbertas](https://user-images.githubusercontent.com/42545422/148615289-0278b1cf-0c4a-4aee-b33d-46f6d691e8dc.JPG)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
